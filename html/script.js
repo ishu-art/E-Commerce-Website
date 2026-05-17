@@ -44,6 +44,7 @@ var MenuItems=document.getElementById("MenuItems");
             }
         }
 // account.html
+//<!-- ------------js for togglr form--------- -->//
  var LoginForm=document.getElementById("LoginForm");
         var RegForm=document.getElementById("RegForm");
         var Indicator=document.getElementById("Indicator");
